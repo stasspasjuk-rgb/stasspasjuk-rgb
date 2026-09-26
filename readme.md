@@ -39,12 +39,10 @@
 
 Я постоянно изучаю и практикую новые технологии:
 
-* 🐍 Python
-* 🌐 HTML / CSS
-* 🗄️ Databases
-* 🐧 Linux
-* 🔧 Git / GitHub
-* 🤖 Discord.js
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,lua,html,css,js,git,vscode&theme=dark" />
+</p>
+
 
 ## 📚 Сейчас изучаю
 
