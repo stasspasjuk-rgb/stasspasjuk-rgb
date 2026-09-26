@@ -12,10 +12,8 @@
 
 Я занимаюсь серверной инфраструктурой, настройкой Minecraft, Discord-системами, разработкой различных игровых механик и развитием самого проекта.
 
-🌐 [Site](https://hitbox.live)
-
-💬 [Discord](https://discord.gg/hitboxmc)
-
+🌐 [Site](https://hitbox.live)<br>
+💬 [Discord](https://discord.gg/hitboxmc)<br>
 🕹 [Launcher](https://launch.hitbox.live)
 
 ### 🌐 KazkaVPN
@@ -68,3 +66,12 @@
 ---
 
 > **Building projects, learning technologies and turning ideas into reality. 🚀**
+
+<div align="center">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=stasspasjuk-rgb&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F9C846&icon_color=F9C846&text_color=FFFFFF" alt="GitHub Stats" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=stasspasjuk-rgb&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F9C846&text_color=FFFFFF" alt="Top Languages" />
+</div>
+<br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Vova4kaua&theme=radical&hide_border=true&background=0D1117&ring=F9C846&fire=F9C846&currStreakLabel=F9C846" alt="GitHub Streak" />
+</div>
