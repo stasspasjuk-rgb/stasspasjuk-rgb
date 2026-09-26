@@ -40,7 +40,7 @@
 Я постоянно изучаю и практикую новые технологии:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,lua,html,css,js,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=discord,docker,figma,github,html,linux,ps,pr,raspberrypi,vscode,ae&theme=dark" />
 </p>
 
 
