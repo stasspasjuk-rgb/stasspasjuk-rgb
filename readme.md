@@ -61,7 +61,7 @@
 
 Работаем над серверной инфраструктурой, веб-разработкой, автоматизацией и дальнейшим развитием сервиса.
 
-🌐 **Website:** [kazka.space](https://kazka.space)
+🌐 **Website:** [kazka.online](https://kazka.online)
 
 ---
 
